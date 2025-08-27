@@ -1,1 +1,1 @@
-print("deep learning model training ")
+print("logistic regression model training ")
